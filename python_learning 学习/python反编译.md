@@ -6,7 +6,7 @@
  ```
 2. 使用解包程序
 [pyinstxtractor.py](https://github.com/countercept/python-exe-unpacker/blob/master/pyinstxtractor.py)
-![](./QQ截图20201105181446.png)
+![网页截图](./QQ截图20201105181446.png)
 
 3. cmd执行此命令
 ```
